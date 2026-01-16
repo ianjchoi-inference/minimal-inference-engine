@@ -16,6 +16,9 @@ htmlcov/
 # OS files
 .DS_Store
 
+# Editor settings
+.vscode/
+
 # Local outputs
 result/
 model/
