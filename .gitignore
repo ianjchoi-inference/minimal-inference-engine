@@ -20,5 +20,4 @@ htmlcov/
 .vscode/
 
 # Local outputs
-result/
 model/
